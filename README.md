@@ -7,7 +7,8 @@
 
 ## Introduction
 
-We know what HTML tags look like. But how do they work in practice? Let's put one together and find out.
+We know what HTML tags look like. But how do they work in practice? Let's put
+one together and find out.
 
 ## Code an `h1` Tag
 
@@ -35,10 +36,12 @@ Once you have the HTML document open in your browser, you can make changes to
 it in the text editor, save the file, refresh the page in the browser, and see
 the changes instantly.
 
+## Conclusion
+
+Congratulations! You wrote your first HTML tag. Now you can use your knowledge
+of this basic building block to learn more HTML tags and see how they work with
+each other to create an entire HTML document structure.
+
 ## Resources
 
 * [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
-
-## Conclusion
-
-Congratulations! You wrote your first HTML tag. Now you can use your knowledge of this basic building block to learn more HTML tags and see how they work with each other to create an entire HTML document structure.
